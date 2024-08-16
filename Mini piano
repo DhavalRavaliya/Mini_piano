@@ -23,3 +23,5 @@ if (pitch) {
 tone(SPEAKER_PIN, pitch);
 } else {
 noTone(SPEAKER_PIN);
+}
+}
